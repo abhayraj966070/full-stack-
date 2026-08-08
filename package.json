@@ -1,0 +1,13 @@
+{
+  "name": "backend2",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "sever.js",
+  "scripts": {
+    "start": "node sever.js"
+  }
+}
+ 
